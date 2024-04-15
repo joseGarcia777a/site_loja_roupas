@@ -1,0 +1,38 @@
+header{
+    background-color: rgba(224, 119, 199, 0.937);
+}
+
+.fPadrao {
+    font-family: "Dancing Script", cursive;
+}
+
+.nav-link, header h1{
+    color: white;
+}
+
+.banner{
+    max-height: 400px;
+    overflow-y: hidden;
+}
+
+#sobre-Loja, #roupas{
+    background-color: rgba(245, 245, 220, 0.656);
+}
+
+.color-text{
+    color: rgba(224, 119, 199, 0.694);
+
+}
+
+#btn-roupas.active{
+    background-color: rgba(224, 119, 199, 0.694);
+}
+
+#btn-roupas:hover{
+    color: rgba(210, 107, 186, 0.694);
+}
+
+li, li a{
+    list-style-type: none;
+    text-decoration: none;
+}
